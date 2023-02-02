@@ -1,0 +1,15 @@
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\bin\Debug\net6.0\Task43_M.exe
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\bin\Debug\net6.0\Task43_M.deps.json
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\bin\Debug\net6.0\Task43_M.runtimeconfig.json
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\bin\Debug\net6.0\Task43_M.dll
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\bin\Debug\net6.0\Task43_M.pdb
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\obj\Debug\net6.0\Task43_M.csproj.AssemblyReference.cache
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\obj\Debug\net6.0\Task43_M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\obj\Debug\net6.0\Task43_M.AssemblyInfoInputs.cache
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\obj\Debug\net6.0\Task43_M.AssemblyInfo.cs
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\obj\Debug\net6.0\Task43_M.csproj.CoreCompileInputs.cache
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\obj\Debug\net6.0\Task43_M.dll
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\obj\Debug\net6.0\refint\Task43_M.dll
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\obj\Debug\net6.0\Task43_M.pdb
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\obj\Debug\net6.0\Task43_M.genruntimeconfig.cache
+C:\Users\oyshn\OneDrive\Рабочий стол\HW 6\Task43_M\obj\Debug\net6.0\ref\Task43_M.dll
